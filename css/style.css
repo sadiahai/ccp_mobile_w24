@@ -51,18 +51,26 @@ video {
 
 .grid-container {
     display: grid;
+    margin-left: 5rem;
+    margin-right: 5rem;
 }
 
 .four-photos {
     display: grid;
+    margin-left: 5rem;
+    margin-right: 5rem;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .general-photos{
     display: grid;
+    margin-left: 5rem;
+    margin-right: 5rem;
     grid-template-columns: 1fr 1fr 1fr;
 }
 .two-photos {
     display: grid;
+    margin-left: 5rem;
+    margin-right: 5rem;
     grid-template-columns: 1fr 1fr;
 }
 
@@ -127,7 +135,7 @@ nav ul {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 20px 165px 20px 165px;
+    padding: 20px 150px 20px 150px;
     text-decoration: none;
     font-size: 30px;
   }
